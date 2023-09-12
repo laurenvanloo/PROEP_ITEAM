@@ -4,7 +4,7 @@
 The project aims to create a student networking system which helps Fontys students to create their personal projects and find the fellow members. The end product contains a website in React, a backend API in Laravel, a MySql Database and third-party component is Fontys API. Our API will connect with Fontys API to achieve students' data. 
 
 ### Demo & Walkthrough Video
-Checkout the full ITEAM [demo video](/ITEAM_Demo_ProEP.mov). 
+Checkout the full ITEAM [demo video here](https://drive.google.com/file/d/1JaS6I6PkZCSG-Vhy88Sw7btl2ygoj7Ea/view?usp=sharing). 
 
 ## Members
 | Name       	        | E-mail		           |
@@ -46,6 +46,5 @@ Checkout the full ITEAM [demo video](/ITEAM_Demo_ProEP.mov).
 │   ├───API documentation
 │   ├───Wireframes and Styleguide 
 ├───Internal meeting
-├───Mentor meeting
-└───Demo Video
+└───Mentor meeting
 ```
