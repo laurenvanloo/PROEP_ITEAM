@@ -1,0 +1,4 @@
+- Store token in homepage
+- Profile Picture:Work on it later
+- An API call to send the project, then an api call to send the array of slots
+- Need to update User Requirement Specifications

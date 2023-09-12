@@ -1,0 +1,6 @@
+- Create another API account
+- Change the database: Each project have certain number of spots.
+Each spot will have a description and an array of skills
+- Create new Project steps:
++ Create the project
++ Then create the spots

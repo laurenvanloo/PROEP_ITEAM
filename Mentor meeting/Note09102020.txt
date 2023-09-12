@@ -1,0 +1,10 @@
+Work division: time spent on the project 
+next meeting: plan for next sprint, C4 model
+extra components: should be API
+
+1. Conversion from ReactJs to ReactNative
+2. Fontys API
+3. C# client app
+4. free API for study programs
+5. text-based database   
+6. Email notification

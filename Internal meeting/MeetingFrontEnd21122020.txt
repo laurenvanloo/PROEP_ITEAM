@@ -1,0 +1,11 @@
+- Rahul:
+  + Login (error 500): Rahul and Lauren meet and work on it on 22/12
+- Lauren:    
+  + Ask Barra uploading user picture part (extra function)
+  + Input the password once when deleting the user account
+  + Ask Barra how to get userID
+- Anh:
+  + Both Lauren and Anh has the error code: 419 when POST axios
+  + Add header options for different AJAX calls.
+  + Meet Lauren on Saturday (1pm) to handle error on POST request  
+- Meeting the whole group on Wednesday (1pm)  

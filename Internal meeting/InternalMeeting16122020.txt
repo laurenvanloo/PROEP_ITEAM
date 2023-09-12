@@ -1,0 +1,8 @@
+- Add the catch error for all kind of responses (API calls)
+(Eg: if the user is unauthorized, he should be directed to login/sign up page)
+- Decide on the place to put the token
+- Extract the address of api so that we can replace it easy with the official address
+in the near future 
+- The front-end must be more proactive and communicate with the backend team during
+connecting with API 
+- The exams will be after holiday => Finish connecting with API during holiday 

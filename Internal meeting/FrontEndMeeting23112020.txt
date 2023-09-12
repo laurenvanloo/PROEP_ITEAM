@@ -1,0 +1,14 @@
+- When creating a project,the project owner is allowed to add maximum 5 skills 
+for each spot.
+- Each web page will have an own folder (which contains both CSS and JS file) on 'components'. 
+- Web pages with side bars (such as HomePage, ProjectDetails) will move the side bars
+either to the top or the bottom to guarantee its view on mobiles.
+- Font: Open-sans for the whole page.
+- Deadline for merging the front-end:6/12.
+- Endorsement: Lauren 's idea is to create a new column called 'Endorsements' (an array of ID of endorsers)
+in the table 'student_skill'
+
+
+
+
+
